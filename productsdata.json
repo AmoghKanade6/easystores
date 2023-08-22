@@ -1,0 +1,138 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "pTron Bassbuds Duo",
+      "brand": "pTron",
+      "quantity": "6",
+      "category": "Electronics",
+      "price": "10.2",
+      "description": "True Wireless Bluetooth Headphones(TWS) with immersive stereo sound, deep bass, smart touch control & 32 Hours of Total Playtime with the charging case. Advanced Bluetooth v5.1 with Strong 10M Wireless Connectivity; 13MM Large Dynamic Driver; 1-Step Pairing; Quick Connect; Auto Re-connect; Widely Compatible with Bluetooth Enabled Devices Ergonomic & Lightweight Wireless Earbuds; Snug-Fit Design; Built-in HD Mic for Clear Call Quality; Passive Noise Cancellation; IPX4 Water/Sweatproof; Instant Access to Device's Voice Assistant Manage Music/Calls with Simple Taps; Stereo Calls; Stereo/Mono Capability; Compact & Lightweight On-the-go Charging Case; 1-1.5Hrs Charge Time; USB-C DC5V/1A Charge Input; Fast Charging 1-year manufacturer warranty from the date of purchase.Caution: Using incompatible USB cable or high voltage chargers can damage the product & void the product warranty. We strongly recommend using DC5V-1A chargers & the USB cable included in the package.",
+      "thumbnail": "https://m.media-amazon.com/images/I/51phrq2UojL._SX679_.jpg",
+      "viewCount": 21
+    },
+    {
+      "id": 3,
+      "title": "MacBook Pro",
+      "brand": "Apple",
+      "quantity": "9",
+      "category": "Electronics",
+      "price": 1811,
+      "description": "SUPERCHARGED BY M2 – The 13-inch MacBook Pro laptop is a portable powerhouse. Get more done faster with a next-generation 8-core CPU, 10-core GPU and up to 24GB of unified memory. UP TO 20 HOURS OF BATTERY LIFE – Go all day and into the night, thanks to the power-efficient performance of the Apple M2 chip. SUSTAINED PERFORMANCE – Thanks to its active cooling system, the 13-inch MacBook Pro can sustain pro levels of performance, so you can run CPU- and GPU-intensive tasks for hours on end. BRILLIANT DISPLAY – The 33.74-centimetre (13.3-inch) Retina display features 500 nits of brightness and P3 wide colour for vibrant images and incredible detail. HD CAMERA AND STUDIO-QUALITY MICS – Look sharp and sound great with a FaceTime HD camera and three-mic array.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61bX2AoGj2L._SX679_.jpg",
+      "viewCount": 10
+    },
+    {
+      "id": 4,
+      "title": "Mamaearth Me Floral Eau",
+      "brand": "Mamaearth",
+      "category": "Cosmetics",
+      "price": "5.8",
+      "quantity": 78,
+      "description": "LASTS UP TO 12 HOURS: A fragrance that stays on and on? Yes this is it! Mamaearth ME Floral stays on for 12 hours so that you smell great from dawn to dusk. MADE SAFE CERTIFIED: This nature-inspired fragrance is toxin-free and Made Safe Certified. It is also hypoallergenic and all skin-friendly.\nPHTHALATE-FREE Phthalates are often used in perfumes and are known to be harmful to one’s health. Mamaearth ME Floral is free of phthalates making it absolutely safe for you.",
+      "thumbnail": "https://m.media-amazon.com/images/I/51yV+uFukZL._SX679_.jpg",
+      "viewCount": 0
+    },
+    {
+      "id": 5,
+      "title": "Ultra Light Gel Oil-Free",
+      "brand": "Mamaearth",
+      "category": "Cosmetics",
+      "price": 2.5,
+      "quantity": 40,
+      "description": "QUICK ABSORPTION: This Ultra Light Gel Oil-Free Moisturizer absorbs quickly and moisturizes effectively. With its oil-free gel texture, it doesn’t feel heavy or sticky, and keeps the skin supple, soft, and glowing all day. GIVES 24 HOUR HYDRATION: Hydration in a bottle! This oil-free moisturizer contains natural ingredients that are suitable for all skin types. It is crafted with Vitamin C, Shea Butter & Aloe Vera, which are nature's powerhouses that hydrate your skin round the clock. BRIGHTENS SKIN: The combination of Vitamin C & Turmeric fights pigmentation and sun damage. Vitamin C is proven to make skin even-toned and radiant. FREE FROM HARMFUL CHEMICALS: Dermatologically Tested, the Vitamin C Ultra Light Gel Oil-Free Moisturizer is free from Sulfates, Parabens, SLS, Petroleum, Artificial Preservatives & Col; SUITABLE FOR ALL SKIN TYPES: This Vitamin C Ultra Light Gel Oil-Free Moisturizer is dermatologically tested & is suitable for all skin types. Target Gender: Unisex",
+      "thumbnail": "https://m.media-amazon.com/images/I/51a-haEdwhS._SX679_.jpg",
+      "viewCount": 5
+    },
+    {
+      "id": 7,
+      "title": "RodZen Oversized T-shirt",
+      "brand": "Allen Solly",
+      "quantity": "69",
+      "category": "Clothing",
+      "price": 2.89,
+      "description": "Care Instructions: Hand Wash Only Fit Type: Loose Fit Care Instructions: Hand Wash Only; Fit Type: Loose Fit Sleeve type: Half sleeve with stylish casual oversize design for Women. Design and style: Trending Color combination design with gives extra ordinary casual look Pairing: This t-shirt is easy to be paired with your Jeans, skinny leggings, jeggings and shorts, etc. Please refer size chart beofore buying for perfect fitting.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71KeFZQy8cL._UY879_.jpg",
+      "viewCount": 28
+    },
+    {
+      "id": 8,
+      "title": "PTron Bassbuds Plus",
+      "brand": "pTron",
+      "quantity": 87,
+      "category": "Electronics",
+      "price": 8.47,
+      "description": "In-Ear True Wireless Stereo Earphones with Hi-Fi Audio & High Bass; Built-in Mic in Each Earbud for Stereo Calls; Ergonomic, Lightweight, Secure-fit & IPX4 Water Resistant Earbuds, Made in India , On-the earbuds multi-function buttons allow calls & music control for a hands-free experience. Inline Remote : No , Bluetooth 5.0; Fast Pairing; 10m Wireless Range; 4 Hours Playback Time (Earbuds) & 8 Hours Extended Playtime using Charging Case; 3.5 Hours Talk-time; 1.2 Hour Charge Time , 8mm Dynamic Driver; Voice Assistant Support; Binaural Call Function; Stereo/Mono Use; 300mAh Digital Display Magnetic Fast Charging Case; Micro USB Charging Cable Provided\n1-year manufacturer warranty from the date of purchase.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61PRAZMNyUL._SX679_.jpg",
+      "viewCount": 4
+    },
+    {
+      "id": 9,
+      "title": "Apple Watch SE",
+      "description": "Take calls and reply to texts, right from your wrist Up to 20% faster than the previous Apple Watch SE Advanced safety features, including Fall Detection, Emergency SOS, and Crash Detection Track your daily activity on Apple Watch, and see your trends in the Fitness app on iPhone Enhanced Workout app with more advanced ways to train",
+      "price": 307,
+      "rating": 4.59,
+      "quantity": 8,
+      "brand": "Apple",
+      "category": "Electronics",
+      "thumbnail": "https://m.media-amazon.com/images/I/71XBcl6bNjL._SX679_.jpg",
+      "viewCount": 6
+    },
+    {
+      "id": 10,
+      "title": "Sparx Mens Sx0614g",
+      "brand": "Sparx",
+      "quantity": "109",
+      "category": "Shoes",
+      "price": 7.41,
+      "description": "Sole: Ethylene Vinyl Acetate Closure: Lace-Up Fit Type: Regular Shoe Width: Medium WHAT YOU GET: 1. One Pair of Sports Shoes as shown in the pictures. 2. Storage Box. 3. Sparx Trust. MADE OF: High Quality Mesh as upper material and EVA as sole material. KEY FEATURES: Made to Last Long, Elegant Packaging, Perfect Gifting Option, Zero compromise on quality",
+      "thumbnail": "https://m.media-amazon.com/images/I/61kOQyhfmyL._UY695_.jpg",
+      "viewCount": 2
+    },
+    {
+      "id": 11,
+      "title": "MSI Gaming Katana GF66",
+      "description": "Processor: 12th Generation Intel Core i7-12700H Up To 4.70 GHz Operating System: Pre-loaded Windows 11 Home with lifetime validity |Preinstalled Software: Nvidia GeForce Experience Nahimic 3 MSI Center Gaming Mode MSI App player | In the box: Laptop, Adapter, Laptop Bag Display: 15.6 Inch FHD (1920*1080), 240Hz, close to 100%sRG Memory & Storage: 8x2GB DDR4 3200MHz RAM, expandable to 64 GB | Storage: 1TB NVMe PCIe Gen4x4 SS Dedicated Graphics NVIDIA GeForce RTX 3060 GDDR6 6GB Ultra Thin and light design | Laptop weight: 2.25 kg Keyboard: Backlight Keyboard",
+      "price": 1228,
+      "rating": 4.19,
+      "brand": "MSI",
+      "quantity": 28,
+      "category": "Electronics",
+      "thumbnail": "https://m.media-amazon.com/images/I/71QovflliQL._SX679_.jpg",
+      "viewCount": 4
+    },
+    {
+      "title": "Colour-Blocked T-shirt",
+      "brand": "Allen Solly",
+      "quantity": "39",
+      "category": "Clothing",
+      "price": "3.6",
+      "description": "Regular Fit , Package contains: 1 t-shirt , 60% cotton, 40% polyester ,Machine wash, Product Code: 464918983004",
+      "thumbnail": "https://assets.ajio.com/medias/sys_master/root/20220901/ARH5/6310ee67f997dd1f8dd3e3fd/-473Wx593H-464918983-blue-MODEL.jpg",
+      "id": 12,
+      "viewCount": 12
+    },
+    {
+      "title": "Slub Knit T-shirt",
+      "brand": " Reliance",
+      "quantity": "112",
+      "category": "Clothing",
+      "price": "3.7",
+      "description": "Cotton Blend, Regular Fit, Machine wash warm , Product Code: 441000451013\nAbout Teamspirit , Net Qty : 10 N , Marketed By Reliance , Imported By Mirzapur , Country Of Origin Ibiza",
+      "thumbnail": "https://assets.ajio.com/medias/sys_master/root/hb8/h5d/13498990788638/-473Wx593H-441000451-medgrey-OUTFIT.jpg",
+      "id": 13,
+      "viewCount": 10
+    },
+    {
+      "id": 14,
+      "title": "Dye Printed T-Shirt",
+      "brand": "Juneberry",
+      "quantity": "78",
+      "category": "Clothing",
+      "price": "2.67",
+      "description": "Care Instructions: Hand Wash Only , Sleeve Type: Half Sleeves. Neck Type: Round Neck. Collar Style: Collarless. Babe Printed on the tshirt looks even much more cooler! , Create a lasting impression in this tie dye Regular Fit T-Shirt. Beautifully Crafted in cotton blend. This tie die t-shirt has half sleeves and is definitely a must-have in your wardrobe , Pair it up with jeans for classic everyday look. This stylish & attractive tshirts for female is suitable for all body types. This attractive shirt will look make you look attractive and will make you stand out of the crowd. You can wear this classic tie dye tshirt for going to a party, club, date, casual meetings & will definately gives you comfort feeling. Material Composition: Cotton Blend",
+      "thumbnail": "https://m.media-amazon.com/images/I/61Y5NQMuokL._UY879_.jpg",
+      "viewCount": 5
+    }
+  ]
+}
