@@ -195,13 +195,6 @@ const ProductList = () => {
                 placeholder="Search..."
                 onChange={handleSearch}
               />
-              {/* <button
-                type="submit"
-                className="btn btn-primary search-button"
-                onClick={handleSearch}
-              >
-                <img className="search-icon" src={searchimg} alt="sbs" />
-              </button> */}
             </div>
           </SearchFilter>
           <Title>
