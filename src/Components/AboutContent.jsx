@@ -17,7 +17,7 @@ const AboutContent = () => {
                 <span className="about-title fw-bold"> Easy Stores</span>{" "}
               </h3>
               <div className="row our-services-info ">
-                <div className="col-12 mt-2 text-info fw-bold our-services-number">
+                <div className="fw-bold fs-3 col-12 mt-2 text-info fw-bold our-services-number">
                   General
                 </div>
                 <div className="col-12 our-services-data">
@@ -26,7 +26,7 @@ const AboutContent = () => {
                     login to our website to access more features
                   </h4>
                 </div>
-                <div className="col-1 mt-5 text-info fw-bold our-services-number">
+                <div className="fw-bold fs-3 col-1 mt-5 text-info fw-bold our-services-number">
                   Login/Signup
                 </div>
                 <div className="col-12 our-services-data">
@@ -35,7 +35,7 @@ const AboutContent = () => {
                     updating and deleting products
                   </h4>
                 </div>
-                <div className="col-12 mt-5 text-info fw-bold our-services-number">
+                <div className="fw-bold fs-3 col-12 mt-5 text-info fw-bold our-services-number">
                   Viewed Products
                 </div>
                 <div className="col-12 our-services-data">
